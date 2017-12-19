@@ -1,0 +1,6 @@
+avocados
+salt
+jalapeno
+onion
+pepper
+lime
