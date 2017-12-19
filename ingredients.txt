@@ -4,3 +4,4 @@ jalapeno
 onion
 pepper
 lime
+cilantro
